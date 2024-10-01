@@ -1,6 +1,5 @@
 
 # Attention
 
-Site is hosted on netifly and consuming heroku database.  Link just below:
+To run the project, your node.js needs to be version =>18.17.0
 
-https://dsmoviies.netlify.app/
